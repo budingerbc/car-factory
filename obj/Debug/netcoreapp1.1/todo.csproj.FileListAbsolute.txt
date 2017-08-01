@@ -1,0 +1,4 @@
+/Users/Guest/Desktop/car_dealership/bin/Debug/netcoreapp1.1/todo.deps.json
+/Users/Guest/Desktop/car_dealership/bin/Debug/netcoreapp1.1/todo.runtimeconfig.json
+/Users/Guest/Desktop/car_dealership/bin/Debug/netcoreapp1.1/todo.runtimeconfig.dev.json
+/Users/Guest/Desktop/car_dealership/obj/Debug/netcoreapp1.1/todo.AssemblyInfo.cs

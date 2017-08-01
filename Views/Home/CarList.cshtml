@@ -1,0 +1,12 @@
+<h1>All Vehicles</h1>
+@foreach(var car in Model)
+{
+  <ul>
+    <li>Manufacturer: @car.GetManufacturer()</li>
+    <li>Model: @car.GetModel()</li>
+    <li>Price: @car.GetPrice()</li>
+    <li>Mileage: @car.GetMileage()</li>
+  </ul>
+}
+
+<p><a href="/">Add another vehicle</a></p>
